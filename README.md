@@ -29,3 +29,21 @@ The database follows a star schema design with fact and dimension tables.
  # The schema
 <img width="945" height="598" alt="image" src="https://github.com/user-attachments/assets/6c91bd52-8017-40e2-949e-ce06dd500526" />
 <img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/edf6b7c7-1af7-4039-bac3-3d7d6c5c1447" />
+
+# Executive Summary Page
+<img width="1313" height="742" alt="image" src="https://github.com/user-attachments/assets/23a55b87-f50c-4e5c-8743-050942981614" />
+
+# Sales Analysis Page
+<img width="1312" height="738" alt="image" src="https://github.com/user-attachments/assets/537a7024-e129-45b9-9267-6d14e57b9178" />
+
+# Invetory Management Page
+<img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/dab706bd-b1df-4e1d-97e2-7b174b01d918" />
+
+# Financial Performance Page
+<img width="1313" height="735" alt="image" src="https://github.com/user-attachments/assets/f3aa0ff9-439c-40bf-a5b0-4ed3ad341a69" />
+
+# Product Performance Page
+<img width="1316" height="729" alt="image" src="https://github.com/user-attachments/assets/197d9e0b-1c7e-4681-8ddf-ac151bcbe2de" />
+
+# Customer Insights
+<img width="1313" height="742" alt="image" src="https://github.com/user-attachments/assets/4e0128c2-4366-4e10-8b9f-b75c79268cc7" />
