@@ -9,7 +9,7 @@ The data does not represent any company, the name H&M is used as an example reta
 The database follows a star schema design with fact and dimension tables.
 
 # Fact Tables
--factSales
+-factSales \n
    Contains individual transaction records including date, store, product, customer, quantity, and revenue.
 -factInventory
    Tracks daily stock levels for each product at each store.
