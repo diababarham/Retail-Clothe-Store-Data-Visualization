@@ -9,22 +9,22 @@ The data does not represent any company, the name H&M is used as an example reta
 The database follows a star schema design with fact and dimension tables.
 
 # Fact Tables
--factSales \n
-   Contains individual transaction records including date, store, product, customer, quantity, and revenue.
--factInventory
-   Tracks daily stock levels for each product at each store.
--factFinancials
-   Contains daily financial performance per store, including revenue, cost of goods sold (COGS), expenses, taxes, and net profit.
+-factSales  
+   Contains individual transaction records including date, store, product, customer, quantity, and revenue.  
+-factInventory  
+   Tracks daily stock levels for each product at each store.  
+-factFinancials  
+   Contains daily financial performance per store, including revenue, cost of goods sold (COGS), expenses, taxes, and net profit.  
 
 # Dimension Tables
--dimProduct
-   Product details (product name, category, subcategory, brand, unit price, etc.).
--dimDate
-   Date dimension covering the period from January 1, 2024 to March 30, 2026.
--dimStore
-   Branch information (store name, location, region, city, etc.) – all stores are located in the UAE.
--dimCustomer
-  Customer information (customer ID, name, age group, gender, location, customer segment, etc.).
+-dimProduct  
+   Product details (product name, category, subcategory, brand, unit price, etc.).  
+-dimDate  
+   Date dimension covering the period from January 1, 2024 to March 30, 2026.  
+-dimStore  
+   Branch information (store name, location, region, city, etc.) – all stores are located in the UAE.  
+-dimCustomer  
+  Customer information (customer ID, name, age group, gender, location, customer segment, etc.).  
 
  # The schema
 <img width="945" height="598" alt="image" src="https://github.com/user-attachments/assets/6c91bd52-8017-40e2-949e-ce06dd500526" />
