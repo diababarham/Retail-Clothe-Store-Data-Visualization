@@ -30,6 +30,26 @@ The database follows a star schema design with fact and dimension tables.
 <img width="945" height="598" alt="image" src="https://github.com/user-attachments/assets/6c91bd52-8017-40e2-949e-ce06dd500526" />
 <img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/edf6b7c7-1af7-4039-bac3-3d7d6c5c1447" />
 
+# Power BI Report Pages
+
+#### 1. Executive Summary
+Provides a high-level overview of the entire business performance with key KPIs such as Total Revenue, Total Profit, Total Orders, and growth trends.
+
+#### 2. Sales Analysis
+Detailed view of sales trends, top products, category performance, and sales breakdown by time, store, and customer.
+
+#### 3. Inventory Analysis
+Monitors stock levels, identifies slow-moving and fast-moving items, and analyzes inventory health across stores.
+
+#### 4. Financial Performance
+Displays revenue, COGS, expenses, taxes, and net profit with profitability analysis by store and time period.
+
+#### 5. Customer Analysis
+Insights into customer demographics, segments, buying behavior, and lifetime value.
+
+#### 6. Store Performance
+Comparative analysis of all UAE branches showing revenue, profit, and operational performance per store.
+
 # Executive Summary Page
 <img width="1313" height="742" alt="image" src="https://github.com/user-attachments/assets/23a55b87-f50c-4e5c-8743-050942981614" />
 
