@@ -56,7 +56,7 @@ Comparative analysis of all UAE branches showing revenue, profit, and operationa
 # Sales Analysis Page
 <img width="1312" height="738" alt="image" src="https://github.com/user-attachments/assets/537a7024-e129-45b9-9267-6d14e57b9178" />
 
-# Invetory Management Page
+# Inventory Management Page
 <img width="1314" height="738" alt="image" src="https://github.com/user-attachments/assets/dab706bd-b1df-4e1d-97e2-7b174b01d918" />
 
 # Financial Performance Page
